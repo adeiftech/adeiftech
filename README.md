@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adeiftech
 - 👀 I’m interested in web and application development
-- 🌱 I’m currently learning C# and Flutter (dart)
-- 💞️ I’m looking to collaborate on windows app development
+- 🌱 I’m currently learning C#.NET Core and React
+- 💞️ I’m looking to collaborate on Web App
 - 📫 I can be reach on telegram (+2348132647232) and Twitter (@Bararchet)
 
 <!---
