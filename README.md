@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adeiftech
-- 👀 I’m interested in web and application development
-- 🌱 I’m currently learning C#.NET Core and React
+- 👀 I’m interested in web development and data science
+- 🌱 I’m currently into Python based coding
 - 💞️ I’m looking to collaborate on Web App
 - 📫 I can be reach on telegram (+2348132647232) and Twitter (@Bararchet)
 
